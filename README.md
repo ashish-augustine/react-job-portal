@@ -1,6 +1,6 @@
 # Jobster
 
-Project in Action - [Jobster](https://redux-toolkit-jobster.netlify.app/)
+Project in Action - [Jobster]( https://redux-toolkit-jobster.netlify.app/landing )
 
 #### Run The App Locally
 
