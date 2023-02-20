@@ -1,6 +1,6 @@
 # Jobster
 
-Project in Action - Jobster https://redux-toolkit-jobster.netlify.app/landing
+Project in Action - Jobster https://glowing-yeot-d32f63.netlify.app/landing
 
 #### Run The App Locally
 
