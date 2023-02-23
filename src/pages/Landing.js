@@ -18,9 +18,10 @@ const Landing = () => {
           <p>
             This is a portal for listing various jobs. The user will be able to
             track their job application progress. All the CRUD operations for
-            all applications are depicted. The dashboard shows the application
-            status of all jobs. New jobs can be listed by the admin. Also the
-            profile section lets the user to manage the user information.
+            all applications are depicted. The dashboard shows the current
+            application status of all jobs. New jobs can be listed by the admin.
+            Also the profile section lets the user to manage the user
+            information.
           </p>
           <Link to="/register" className="btn btn-hero">
             Login/Register
